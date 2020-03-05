@@ -1,0 +1,20 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "A sudoku validator",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sudoku",
+    "game",
+    "test"
+  ],
+  "author": "Andrew Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.26",
+    "yargs": "^15.1.0"
+  }
+}
